@@ -1,2 +1,3 @@
-# image
-OhMySh Image Box
+# ohmysh/image
+
+OhMySh Image Box.
